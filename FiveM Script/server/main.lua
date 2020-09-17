@@ -32,7 +32,6 @@ ESX.RegisterServerCallback('matt_vehicleStatus', function(source, cb, plate)
 
 			if found then
 				cb(true)
-				TriggerEvent('esx_billing:sendBill', sourceXPlayer, 'society_police', 'Taxi', 125)
 			else
 				cb(false)
 			end
