@@ -18,3 +18,11 @@
 ensure tollBooth
 ```
 3. Edit the config.lua file to your liking
+
+## How to install the Discord Bot
+1. Create a bot account at discord.com/developers and grab the token.
+2. Add your token into config.js
+3. Add you MySQL server connection details into config.js
+4. CD into your directory
+5. Type ``npm i``
+6. Type ``node index.js``
