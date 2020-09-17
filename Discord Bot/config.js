@@ -1,6 +1,6 @@
 module.exports = {
     prefix: "!",
-    token: "NzQ1NzAxOTY1MTg2NTk2OTQy.Xz1nEg.r0GSpZO2f473jOaBKcfpGYterIg",
+    token: "",
     mysql: {
         host     : 'localhost',
         user     : 'root',
