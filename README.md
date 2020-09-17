@@ -27,7 +27,10 @@ ensure tollBooth
 
 ## Screenshots / Preview
 <img src="https://gblobscdn.gitbook.com/assets%2F-MH09NXXuXXQpVX7yfuf%2F-MHPHgqu0pPqx69EmDRQ%2F-MHPHmVJ32ian47lqY8X%2Fimage.png?alt=media&token=9cd1d0e0-c85c-4ada-a229-a82fef71cc70">
-<i>Default Toll Booth</i>
+<i>Route 1 Toll Booth</i>
+<br>
+<img src="https://gblobscdn.gitbook.com/assets%2F-MH09NXXuXXQpVX7yfuf%2F-MHPI-6OB2nnV9vqrnoM%2F-MHPIxHzYdNQBNLIo_mu%2Fimage.png?alt=media&token=e09e00b0-97bb-457a-9134-47790de4c227">
+<i>Highway 1 Toll Booth</i>
 <br>
 <img src='https://gblobscdn.gitbook.com/assets%2F-MH09NXXuXXQpVX7yfuf%2F-MHP7f2XxmG_726vGUuV%2F-MHP8TWk0iC6khRhznxA%2Fimage.png?alt=media&token=081ff30f-ea52-42b9-9d1f-9fcac8c94c41'>
 <i>Regular Payment Example</i>
