@@ -6,4 +6,7 @@
 - If a user passes through the toll with a "unregistered" or "stolen" vehicle it will alert law enforcement.
 - Discord Bot with stats command.
 
+## Dependencies
+- ESX (Version 1.0)
+
 ## Screenshots / Preview
