@@ -36,3 +36,6 @@ ensure tollBooth
 <img src='https://gblobscdn.gitbook.com/assets%2F-MH09NXXuXXQpVX7yfuf%2F-MHP7f2XxmG_726vGUuV%2F-MHP8vUwqF4XkIgY7Uu5%2Fimage.png?alt=media&token=987dbb18-763a-4b40-bcff-bd0d16741315'>
 <i>Stolen/Unregistered vehicle passing through the toll police alert</i>
 <br>
+
+## Credits
+Flashing Light Effect - https://github.com/P4NDAzzGaming/esx_speedcamera
