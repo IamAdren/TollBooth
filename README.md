@@ -9,8 +9,6 @@
 ## Dependencies
 - ESX (Version 1.0)
 
-## Screenshots / Preview
-
 ## How to install the Script
 1. Import tollBooth.sql to your database
 2. Add this in your server.cfg:
@@ -26,3 +24,7 @@ ensure tollBooth
 4. CD into your directory
 5. Type ``npm i``
 6. Type ``node index.js``
+
+## Screenshots / Preview
+<img src='https://gblobscdn.gitbook.com/assets%2F-MH09NXXuXXQpVX7yfuf%2F-MHP7f2XxmG_726vGUuV%2F-MHP8TWk0iC6khRhznxA%2Fimage.png?alt=media&token=081ff30f-ea52-42b9-9d1f-9fcac8c94c41'>
+<i>Regular Payment Example</i>
