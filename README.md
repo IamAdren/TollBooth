@@ -28,3 +28,9 @@ ensure tollBooth
 ## Screenshots / Preview
 <img src='https://gblobscdn.gitbook.com/assets%2F-MH09NXXuXXQpVX7yfuf%2F-MHP7f2XxmG_726vGUuV%2F-MHP8TWk0iC6khRhznxA%2Fimage.png?alt=media&token=081ff30f-ea52-42b9-9d1f-9fcac8c94c41'>
 <i>Regular Payment Example</i>
+
+<img src='https://gblobscdn.gitbook.com/assets%2F-MH09NXXuXXQpVX7yfuf%2F-MHP7f2XxmG_726vGUuV%2F-MHP9AzGzzLA-SOUuBCP%2Fimage.png?alt=media&token=e0732c15-906e-437d-982f-13d04291e03e'>
+<i>Failure to pay police alert</i>
+
+<img src='https://gblobscdn.gitbook.com/assets%2F-MH09NXXuXXQpVX7yfuf%2F-MHP7f2XxmG_726vGUuV%2F-MHP8vUwqF4XkIgY7Uu5%2Fimage.png?alt=media&token=987dbb18-763a-4b40-bcff-bd0d16741315'>
+<i>Stolen/Unregistered vehicle passing through the toll police alert</i>
