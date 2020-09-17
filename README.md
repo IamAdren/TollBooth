@@ -46,3 +46,4 @@ ensure tollBooth
 
 ## Credits
 Flashing Light Effect - https://github.com/P4NDAzzGaming/esx_speedcamera
+*I Would use VerpiMoDz's US Mexico Border for more tolls. https://discord.gg/sn8behF*
